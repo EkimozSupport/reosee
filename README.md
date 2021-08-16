@@ -1,11 +1,11 @@
 <h1 align="centre">YuiHirasawaMusicBot V5.0 🎵</h1>
 
 ### A Anime Theme music bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@YuiHirasawaMusic_Bot](https://t.me/YuiHirasawaMusic_Bot)
+#### POWERED BY [MARSHALX TGCALLS](https://github.com/EkimozSupport/reosee)
+### Available on telegram as [@MissRoseMusic_Bot](https://t.me/MissRoseMusic_player)
 
 <p align="center">
-  <img src="https://telegra.ph/file/b184fdb79e3ba8bc73ba8.jpg">
+  <img src="https://telegra.ph/file/5476eb4baf676e1bf6764.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/reosee)
 
 #### Get Pyrogram String Session
 <a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
@@ -36,8 +36,8 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/Yeagerist-Music-Streamer-Bot-V3/YuiHirasawaMusicBot
-$ cd YuiHirasawaMusicBot
+$ git clone https://github.com/EkimozSupport/reosee
+$ cd MissRoseMusicPlayer
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
