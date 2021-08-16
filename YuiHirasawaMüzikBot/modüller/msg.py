@@ -5,7 +5,7 @@ from YuiHirasawaMusicBot.config import PROJECT_NAME
 from YuiHirasawaMusicBot.config import SUPPORT_GROUP
 from YuiHirasawaMusicBot.config import UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am A advanced Anime Theme music bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am A advanced Anime Theme music bot created for playing music in the voice chats of Telegram Groups & Channels Give full permission to watch videos.\n\n✅ Send me /help for more info."
       HELP_MSG = [
         ".",
 f"""
