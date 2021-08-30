@@ -2,10 +2,10 @@
 
 ### A Anime Theme music bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/EkimozSupport/reosee)
-### Available on telegram as [@MissRoseMusic_Bot](https://t.me/MissRoseMusic_player)
+### Available on telegram as [@MerakliMusicBot](https://t.me/MerakliMusicbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/5476eb4baf676e1bf6764.jpg">
+  <img src="https://telegra.ph/file/6599438ca49ac38f7920a.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
